@@ -1,1 +1,1 @@
-# Incident-Log-Api
+A RESTful API to log and manage AI safety incidents using Node.js, Express, and MongoDB.
